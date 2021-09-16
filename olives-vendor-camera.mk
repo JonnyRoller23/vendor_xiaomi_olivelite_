@@ -184,24 +184,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/olives/camera/vendor/etc/camera/ov8856_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/ov8856_chromatix.xml \
     vendor/xiaomi/olives/camera/vendor/etc/camera/ov8858_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/ov8858_chromatix.xml \
     vendor/xiaomi/olives/camera/vendor/etc/camera/ov8865_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/ov8865_chromatix.xml \
-    vendor/xiaomi/olives/camera/vendor/etc/camera/pine_gc5035_holitech_chromatix_factory.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/pine_gc5035_holitech_chromatix_factory.xml \
-    vendor/xiaomi/olives/camera/vendor/etc/camera/pine_gc5035_holitech_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/pine_gc5035_holitech_chromatix.xml \
-    vendor/xiaomi/olives/camera/vendor/etc/camera/pine_gc5035_ofilm_chromatix_factory.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/pine_gc5035_ofilm_chromatix_factory.xml \
-    vendor/xiaomi/olives/camera/vendor/etc/camera/pine_gc5035_ofilm_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/pine_gc5035_ofilm_chromatix.xml \
-    vendor/xiaomi/olives/camera/vendor/etc/camera/pine_gc5035_qtech_chromatix_factory.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/pine_gc5035_qtech_chromatix_factory.xml \
-    vendor/xiaomi/olives/camera/vendor/etc/camera/pine_gc5035_qtech_chromatix_india.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/pine_gc5035_qtech_chromatix_india.xml \
-    vendor/xiaomi/olives/camera/vendor/etc/camera/pine_gc5035_qtech_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/pine_gc5035_qtech_chromatix.xml \
-    vendor/xiaomi/olives/camera/vendor/etc/camera/pine_imx486_holitech_chromatix_factory.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/pine_imx486_holitech_chromatix_factory.xml \
-    vendor/xiaomi/olives/camera/vendor/etc/camera/pine_imx486_holitech_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/pine_imx486_holitech_chromatix.xml \
-    vendor/xiaomi/olives/camera/vendor/etc/camera/pine_imx486_ofilm_chromatix_factory.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/pine_imx486_ofilm_chromatix_factory.xml \
-    vendor/xiaomi/olives/camera/vendor/etc/camera/pine_imx486_ofilm_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/pine_imx486_ofilm_chromatix.xml \
-    vendor/xiaomi/olives/camera/vendor/etc/camera/pine_imx486_qtech_chromatix_factory.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/pine_imx486_qtech_chromatix_factory.xml \
-    vendor/xiaomi/olives/camera/vendor/etc/camera/pine_imx486_qtech_chromatix_india.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/pine_imx486_qtech_chromatix_india.xml \
-    vendor/xiaomi/olives/camera/vendor/etc/camera/pine_imx486_qtech_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/pine_imx486_qtech_chromatix.xml \
-    vendor/xiaomi/olives/camera/vendor/etc/camera/pine_ov13855_ofilm_chromatix_factory.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/pine_ov13855_ofilm_chromatix_factory.xml \
-    vendor/xiaomi/olives/camera/vendor/etc/camera/pine_ov13855_ofilm_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/pine_ov13855_ofilm_chromatix.xml \
-    vendor/xiaomi/olives/camera/vendor/etc/camera/pine_ov13855_qtech_chromatix_factory.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/pine_ov13855_qtech_chromatix_factory.xml \
-    vendor/xiaomi/olives/camera/vendor/etc/camera/pine_ov13855_qtech_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/pine_ov13855_qtech_chromatix.xml \
     vendor/xiaomi/olives/camera/vendor/etc/camera/s5k2l7_8953_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k2l7_8953_chromatix.xml \
     vendor/xiaomi/olives/camera/vendor/etc/camera/s5k2l7_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k2l7_chromatix.xml \
     vendor/xiaomi/olives/camera/vendor/etc/camera/s5k2l7sx_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k2l7sx_chromatix.xml \
